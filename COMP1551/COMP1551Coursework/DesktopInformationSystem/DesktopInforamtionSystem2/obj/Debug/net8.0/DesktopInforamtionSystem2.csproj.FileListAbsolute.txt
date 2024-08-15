@@ -1,0 +1,14 @@
+D:\COMP1551Coursework\DesktopInformationSystem\DesktopInforamtionSystem2\bin\Debug\net8.0\DesktopInforamtionSystem2.exe
+D:\COMP1551Coursework\DesktopInformationSystem\DesktopInforamtionSystem2\bin\Debug\net8.0\DesktopInforamtionSystem2.deps.json
+D:\COMP1551Coursework\DesktopInformationSystem\DesktopInforamtionSystem2\bin\Debug\net8.0\DesktopInforamtionSystem2.runtimeconfig.json
+D:\COMP1551Coursework\DesktopInformationSystem\DesktopInforamtionSystem2\bin\Debug\net8.0\DesktopInforamtionSystem2.dll
+D:\COMP1551Coursework\DesktopInformationSystem\DesktopInforamtionSystem2\bin\Debug\net8.0\DesktopInforamtionSystem2.pdb
+D:\COMP1551Coursework\DesktopInformationSystem\DesktopInforamtionSystem2\obj\Debug\net8.0\DesktopInforamtionSystem2.GeneratedMSBuildEditorConfig.editorconfig
+D:\COMP1551Coursework\DesktopInformationSystem\DesktopInforamtionSystem2\obj\Debug\net8.0\DesktopInforamtionSystem2.AssemblyInfoInputs.cache
+D:\COMP1551Coursework\DesktopInformationSystem\DesktopInforamtionSystem2\obj\Debug\net8.0\DesktopInforamtionSystem2.AssemblyInfo.cs
+D:\COMP1551Coursework\DesktopInformationSystem\DesktopInforamtionSystem2\obj\Debug\net8.0\DesktopInforamtionSystem2.csproj.CoreCompileInputs.cache
+D:\COMP1551Coursework\DesktopInformationSystem\DesktopInforamtionSystem2\obj\Debug\net8.0\DesktopInforamtionSystem2.dll
+D:\COMP1551Coursework\DesktopInformationSystem\DesktopInforamtionSystem2\obj\Debug\net8.0\refint\DesktopInforamtionSystem2.dll
+D:\COMP1551Coursework\DesktopInformationSystem\DesktopInforamtionSystem2\obj\Debug\net8.0\DesktopInforamtionSystem2.pdb
+D:\COMP1551Coursework\DesktopInformationSystem\DesktopInforamtionSystem2\obj\Debug\net8.0\DesktopInforamtionSystem2.genruntimeconfig.cache
+D:\COMP1551Coursework\DesktopInformationSystem\DesktopInforamtionSystem2\obj\Debug\net8.0\ref\DesktopInforamtionSystem2.dll

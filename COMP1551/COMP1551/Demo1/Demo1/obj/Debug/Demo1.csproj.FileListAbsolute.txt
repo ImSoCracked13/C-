@@ -1,0 +1,10 @@
+D:\Studies\C#\COMP1551\Demo1\Demo1\bin\Debug\Demo1.exe.config
+D:\Studies\C#\COMP1551\Demo1\Demo1\bin\Debug\Demo1.exe
+D:\Studies\C#\COMP1551\Demo1\Demo1\bin\Debug\Demo1.pdb
+D:\Studies\C#\COMP1551\Demo1\Demo1\obj\Debug\Demo1.csproj.AssemblyReference.cache
+D:\Studies\C#\COMP1551\Demo1\Demo1\obj\Debug\Demo1.Form1.resources
+D:\Studies\C#\COMP1551\Demo1\Demo1\obj\Debug\Demo1.Properties.Resources.resources
+D:\Studies\C#\COMP1551\Demo1\Demo1\obj\Debug\Demo1.csproj.GenerateResource.cache
+D:\Studies\C#\COMP1551\Demo1\Demo1\obj\Debug\Demo1.csproj.CoreCompileInputs.cache
+D:\Studies\C#\COMP1551\Demo1\Demo1\obj\Debug\Demo1.exe
+D:\Studies\C#\COMP1551\Demo1\Demo1\obj\Debug\Demo1.pdb

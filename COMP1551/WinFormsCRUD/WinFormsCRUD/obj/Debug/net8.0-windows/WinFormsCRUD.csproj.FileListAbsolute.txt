@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\WinFormsCRUD\WinFormsCRUD\obj\Debug\net8.0-windows\WinFormsCRUD.Form1.resources
+C:\Users\Admin\source\repos\WinFormsCRUD\WinFormsCRUD\obj\Debug\net8.0-windows\WinFormsCRUD.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WinFormsCRUD\WinFormsCRUD\obj\Debug\net8.0-windows\WinFormsCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\WinFormsCRUD\WinFormsCRUD\obj\Debug\net8.0-windows\WinFormsCRUD.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\WinFormsCRUD\WinFormsCRUD\obj\Debug\net8.0-windows\WinFormsCRUD.AssemblyInfo.cs
+C:\Users\Admin\source\repos\WinFormsCRUD\WinFormsCRUD\obj\Debug\net8.0-windows\WinFormsCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WinFormsCRUD\WinFormsCRUD\bin\Debug\net8.0-windows\WinFormsCRUD.exe
+C:\Users\Admin\source\repos\WinFormsCRUD\WinFormsCRUD\bin\Debug\net8.0-windows\WinFormsCRUD.deps.json
+C:\Users\Admin\source\repos\WinFormsCRUD\WinFormsCRUD\bin\Debug\net8.0-windows\WinFormsCRUD.runtimeconfig.json
+C:\Users\Admin\source\repos\WinFormsCRUD\WinFormsCRUD\bin\Debug\net8.0-windows\WinFormsCRUD.dll
+C:\Users\Admin\source\repos\WinFormsCRUD\WinFormsCRUD\bin\Debug\net8.0-windows\WinFormsCRUD.pdb
+C:\Users\Admin\source\repos\WinFormsCRUD\WinFormsCRUD\obj\Debug\net8.0-windows\WinFormsCRUD.dll
+C:\Users\Admin\source\repos\WinFormsCRUD\WinFormsCRUD\obj\Debug\net8.0-windows\refint\WinFormsCRUD.dll
+C:\Users\Admin\source\repos\WinFormsCRUD\WinFormsCRUD\obj\Debug\net8.0-windows\WinFormsCRUD.pdb
+C:\Users\Admin\source\repos\WinFormsCRUD\WinFormsCRUD\obj\Debug\net8.0-windows\WinFormsCRUD.genruntimeconfig.cache
+C:\Users\Admin\source\repos\WinFormsCRUD\WinFormsCRUD\obj\Debug\net8.0-windows\ref\WinFormsCRUD.dll

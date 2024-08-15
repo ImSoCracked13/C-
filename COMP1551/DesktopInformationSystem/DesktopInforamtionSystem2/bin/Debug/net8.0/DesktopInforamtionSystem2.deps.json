@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DesktopInforamtionSystem2/1.0.0": {
+        "runtime": {
+          "DesktopInforamtionSystem2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesktopInforamtionSystem2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

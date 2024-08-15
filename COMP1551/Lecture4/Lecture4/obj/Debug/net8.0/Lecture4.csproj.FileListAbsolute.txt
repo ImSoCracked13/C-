@@ -1,0 +1,4 @@
+D:\C#\Lecture4\Lecture4\obj\Debug\net8.0\Lecture4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Lecture4\Lecture4\obj\Debug\net8.0\Lecture4.AssemblyInfoInputs.cache
+D:\C#\Lecture4\Lecture4\obj\Debug\net8.0\Lecture4.AssemblyInfo.cs
+D:\C#\Lecture4\Lecture4\obj\Debug\net8.0\Lecture4.csproj.CoreCompileInputs.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseraLab", "CourseraLab\CourseraLab.csproj", "{522336BD-5F7C-4335-AACE-E599B811BC25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{522336BD-5F7C-4335-AACE-E599B811BC25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{522336BD-5F7C-4335-AACE-E599B811BC25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{522336BD-5F7C-4335-AACE-E599B811BC25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{522336BD-5F7C-4335-AACE-E599B811BC25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F2A0C88-FDDD-4A3D-89E4-CE12A5836485}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+D:\Studies\C#\CRUD\CRUD\CRUD\bin\Debug\Database1.mdf
+D:\Studies\C#\CRUD\CRUD\CRUD\bin\Debug\Database1_log.ldf
+D:\Studies\C#\CRUD\CRUD\CRUD\bin\Debug\CRUD.exe.config
+D:\Studies\C#\CRUD\CRUD\CRUD\bin\Debug\CRUD.exe
+D:\Studies\C#\CRUD\CRUD\CRUD\bin\Debug\CRUD.pdb
+D:\Studies\C#\CRUD\CRUD\CRUD\obj\Debug\CRUD.csproj.AssemblyReference.cache
+D:\Studies\C#\CRUD\CRUD\CRUD\obj\Debug\CRUD.Form1.resources
+D:\Studies\C#\CRUD\CRUD\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+D:\Studies\C#\CRUD\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.cache
+D:\Studies\C#\CRUD\CRUD\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+D:\Studies\C#\CRUD\CRUD\CRUD\obj\Debug\CRUD.exe
+D:\Studies\C#\CRUD\CRUD\CRUD\obj\Debug\CRUD.pdb

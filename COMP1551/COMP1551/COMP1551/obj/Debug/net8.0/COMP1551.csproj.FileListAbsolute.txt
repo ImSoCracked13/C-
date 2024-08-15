@@ -1,0 +1,14 @@
+D:\C#\COMP1551\COMP1551\bin\Debug\net8.0\COMP1551.exe
+D:\C#\COMP1551\COMP1551\bin\Debug\net8.0\COMP1551.deps.json
+D:\C#\COMP1551\COMP1551\bin\Debug\net8.0\COMP1551.runtimeconfig.json
+D:\C#\COMP1551\COMP1551\bin\Debug\net8.0\COMP1551.dll
+D:\C#\COMP1551\COMP1551\bin\Debug\net8.0\COMP1551.pdb
+D:\C#\COMP1551\COMP1551\obj\Debug\net8.0\COMP1551.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\COMP1551\COMP1551\obj\Debug\net8.0\COMP1551.AssemblyInfoInputs.cache
+D:\C#\COMP1551\COMP1551\obj\Debug\net8.0\COMP1551.AssemblyInfo.cs
+D:\C#\COMP1551\COMP1551\obj\Debug\net8.0\COMP1551.csproj.CoreCompileInputs.cache
+D:\C#\COMP1551\COMP1551\obj\Debug\net8.0\COMP1551.dll
+D:\C#\COMP1551\COMP1551\obj\Debug\net8.0\refint\COMP1551.dll
+D:\C#\COMP1551\COMP1551\obj\Debug\net8.0\COMP1551.pdb
+D:\C#\COMP1551\COMP1551\obj\Debug\net8.0\COMP1551.genruntimeconfig.cache
+D:\C#\COMP1551\COMP1551\obj\Debug\net8.0\ref\COMP1551.dll
